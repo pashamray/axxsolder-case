@@ -1,1 +1,1 @@
-FreeCAD model case for [AxxSolder project](https://github.com/AxxAxx/AxxSolder) 
+FreeCAD model case for [AxxSolder](https://github.com/AxxAxx/AxxSolder) project
